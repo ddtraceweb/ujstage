@@ -1,0 +1,12 @@
+{
+    "name": "uj/application",
+    "description": "The \"Uj App\"",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "1.*"
+    }
+}
